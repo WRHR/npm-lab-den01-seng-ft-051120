@@ -1,0 +1,22 @@
+{
+  "name": "npm-lab-den01-seng-ft-051120",
+  "version": "1.0.0",
+  "description": "## Overview",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo 'Hello World!'"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/WRHR/npm-lab-den01-seng-ft-051120.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/WRHR/npm-lab-den01-seng-ft-051120/issues"
+  },
+  "homepage": "https://github.com/WRHR/npm-lab-den01-seng-ft-051120#readme",
+  "dependencies": {
+    "moment": "^2.27.0"
+  }
+}
